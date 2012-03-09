@@ -11,5 +11,5 @@ Gem::Specification.new do |gem|
   gem.summary     = "Correct HTTP Content Negotiation"
   gem.description = "Given an HTTP Accept header and a set of available content types, this gem will tell you what to do."
 
-  gem.files = %x{ git ls-files }.split("\n").select { |d| d =~ %r{^(Readme.md|lib/|test/)} }
+  gem.files = %x{ git ls-files }.split("\n").select { |d| d =~ %r{^(Readme.md|LICENSE|lib/|test/)} }
 end
