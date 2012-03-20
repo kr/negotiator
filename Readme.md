@@ -1,3 +1,7 @@
+# New Owner
+
+### This project now lives at <https://github.com/daneharrigan/negotiator>.
+
 # Negotiator
 
 This library does HTTP content negotiation.
